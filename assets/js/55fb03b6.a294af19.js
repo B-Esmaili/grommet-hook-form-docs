@@ -1,0 +1,1 @@
+(self.webpackChunkghf_docs=self.webpackChunkghf_docs||[]).push([[969],{6350:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/atomic-web/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/atomic-web/blog/tags/hola"}')}}]);

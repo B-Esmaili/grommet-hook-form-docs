@@ -1,0 +1,1 @@
+(self.webpackChunkghf_docs=self.webpackChunkghf_docs||[]).push([[829],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/atomic-web/blog/welcome"},{"title":"Hello","permalink":"/atomic-web/blog/hello-world"},{"title":"Hola","permalink":"/atomic-web/blog/hola"}]}')}}]);

@@ -3,7 +3,7 @@ module.exports = {
   title: 'A developer friendly form builder for React',
   tagline: 'Wanna see it in action?',
   url: 'http://atomic-web.github.io/',
-  baseUrl: '/atomic-web/',
+  baseUrl: '/styled-hook-form-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

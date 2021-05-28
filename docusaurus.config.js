@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'styled-hook-form-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'StyledGrommet Hook Form',
+      title: 'Styled Hook Form',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',

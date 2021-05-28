@@ -1,0 +1,1 @@
+(self.webpackChunkghf_docs=self.webpackChunkghf_docs||[]).push([[234],{7542:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/styled-hook-form-docs/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/styled-hook-form-docs/blog/tags/hola"}')}}]);

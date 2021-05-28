@@ -1,1 +1,0 @@
-(self.webpackChunkghf_docs=self.webpackChunkghf_docs||[]).push([[49],{1832:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/atomic-web/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/atomic-web/blog/tags/docusaurus"}')}}]);

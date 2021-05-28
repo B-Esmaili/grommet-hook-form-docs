@@ -1,0 +1,1 @@
+(self.webpackChunkghf_docs=self.webpackChunkghf_docs||[]).push([[829],{6353:function(o){"use strict";o.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/styled-hook-form-docs/blog/welcome"},{"title":"Hello","permalink":"/styled-hook-form-docs/blog/hello-world"},{"title":"Hola","permalink":"/styled-hook-form-docs/blog/hola"}]}')}}]);

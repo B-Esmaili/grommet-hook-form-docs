@@ -1,1 +1,0 @@
-(self.webpackChunkghf_docs=self.webpackChunkghf_docs||[]).push([[335],{59:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/atomic-web/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/atomic-web/blog/tags/facebook"}')}}]);

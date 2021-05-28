@@ -2,16 +2,16 @@
 module.exports = {
   title: 'A developer friendly form builder for React',
   tagline: 'Wanna see it in action?',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'http://atomic-web.github.io/',
+  baseUrl: '/atomic-web/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'atomic-web', // Usually your GitHub org/user name.
+  projectName: 'styled-hook-form-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Grommet Hook Form',
+      title: 'StyledGrommet Hook Form',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',

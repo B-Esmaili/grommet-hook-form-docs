@@ -1,0 +1,4 @@
+#Form Components
+There are two types of components for building forms, `FormBuilder` and `HttpForm`. When we need to submit form data to an HTTP endpoint, the HttpForm is component of choice.In other scenarios in which form data is intented for local use, `FormBuilder` is used. The main difference between two components is, the `HttpForm` manages HTTP requests automatically. Behind the scene `HttpForm` uses `axios` library for handling HTTP requests. `HttpForm` uses `FormBuilder` as it's base and extends it with some extra props , so all of `FormBuilder` props are awailable in `FormBuilder`.
+
+Form's body is defined using a `JSON` object comprising predefined set of built-in editor types and also a custom editor type for sake of extensibility. All editors share some common 
